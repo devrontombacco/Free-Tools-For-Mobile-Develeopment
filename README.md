@@ -149,7 +149,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### Swift language
+### SWIFT LANGUAGE
 - [Official Docs](https://swift.org): Swift Language Reference Guide
 - [get awesomeness](https://getawesomeness.herokuapp.com/get/swift): Random awesome Swift resources
 
