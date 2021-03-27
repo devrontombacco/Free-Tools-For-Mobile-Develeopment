@@ -33,39 +33,39 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-## EMOJIS 
+### EMOJIS 
 - [emojipedia](https://emojipedia.org): Emojis for anything
 
 
 
-## ESTIMATE TIME/MONEY FOR PROJECT
+### ESTIMATE TIME/MONEY FOR PROJECT
 - [EstimateMyApp](https://estimatemyapp.com): Estimate how long a project will take, as well as its cost
 
 
 
-## EVENTS
+### EVENTS
 - [forekast](https://forekast.com ): Upcoming fun events!
 
 
 
-## FONTS and TYPOGRAPHY
+### FONTS and TYPOGRAPHY
 - [fontflipper](https://www.fontflipper.com): Identify a font you like from an image
 - [modularscale](https://www.modularscale.com/?1&em&1.5): What scale should your font have? 
 - [type-scale](https://type-scale.com): Help scale your font
 
 
 
-## GOLDEN RATIO CALCULATOR
+### GOLDEN RATIO CALCULATOR
 - [golden ratio](https://miniwebtool.com/golden-section-calculator/): Create the golden ratio 
 
 
 
-## GRADIENTS
+### GRADIENTS
 - [uigradients](https://uigradients.com/#Mirage): Create uigradients easily
 
 
 
-## ICONS
+### ICONS
 - [iconmonstr](https://iconmonstr.com): Icon monster
 - [flaticon](https://www.flaticon.com): Flat icons
 - [basic icons](https://basicons.xyz): Basic icons 
@@ -73,18 +73,18 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-## IMAGE OPMITISATION 
+### IMAGE OPMITISATION 
 - [tinypng](https://tinypng.com): Optimize your pngs
 - [tinyjpg](https://tinyjpg.com ): Optimize your jpgs
 
 
 
-## LANDING PAGE FOR APP
+### LANDING PAGE FOR APP
 - [appsite](https://appsite.skygear.io): Create a landing page for your mobile app
 
 
 
-## LOREM IPSUM GENERATORS 
+### LOREM IPSUM GENERATORS 
 - [lorem ipsum](https://loremipsum.io): Generate text for your app
 - [lipsum](https://www.lipsum.com):  Generate text for your app 
 - [bacon ipsum](https://baconipsum.com):  Generate bacon themed text for your app
@@ -93,13 +93,13 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-## MARKDOWN 
+### MARKDOWN 
 - [dillinger](www.dillinger.io): Create markdown easily 
 - [markdownify](https://markdownify.js.org): Download markdown software 
 
 
 
-## MOBILE APP DESIGN WEBSITES 
+### MOBILE APP DESIGN WEBSITES 
 - [dribbble](https://www.dribbble.com): Check out designers' portfolios to get more ideas
 - [mobbin](https://www.mobbin.com): Check out designers' portfolios to get more ideas
 - [mthds](https://mthds.co): Check out designers' portfolios to get more ideas
@@ -107,7 +107,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-## MOCKUPS 
+### MOCKUPS 
 - [Adobe XD](https://www.adobe.com/ie/products/xd.html): FREE powerful mockup tool for mobile and web development
 - [pencil](https://pencil.evolus.vn): Open-source GUI prototyping tool that's available for ALL platforms
 - [ls.graphics](https://www.ls.graphics/free-mockups): Free assets for mockups are occasionally offered here
@@ -121,57 +121,57 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-## ONLINE TRENDS 
+### ONLINE TRENDS 
 - [also asked](https://alsoasked.com): Company offering free online trend search
 - [exploding topics](https://explodingtopics.com): Company offering free online trend search
 - [answer the public](https://answerthepublic.com): Company offering free online trend search
 
 
 
-## PHOTO EDITOR (ONLINE
+### PHOTO EDITOR (ONLINE
 - [fotor](https://www.fotor.com/photo-editor-app/editor/basic): Photo editor 
 
 
 
-## SCHEDULING
+### SCHEDULING
 - [cally](https://cally.com): Schedule meetings for free
 
 
 
-## SCREENSHOTS
+### SCREENSHOTS
 - [mockuphone](https://mockuphone.com ): Create screenshots for app store 
 - [shareX](https://getsharex.com): Screen capture, sharing and productivity tool 
 
 
 
-## SOUND EFFECTS
+### SOUND EFFECTS
 - [mixkit](https://mixkit.co): Download free sound FX 
 
 
 
-## Swift language
+### Swift language
 - [Official Docs](https://swift.org): Swift Language Reference Guide
 - [get awesomeness](https://getawesomeness.herokuapp.com/get/swift): Random awesome Swift resources
 
 
 
-## TIME TRACKING 
+### TIME TRACKING 
 - [clockify](https://clockify.me): 
 
 
 
-## WIREFRAMES 
+### WIREFRAMES 
 - [wireframer](https://wireframer.art): Create wireframes easily 
 
 
 
-## WHITEBOARD 
+### WHITEBOARD 
 - [aww app](https://awwapp.com/b/u0m8tjdymobz1/#): Use whiteboard online to jot down ideas
 
 
 
 
-## MORE WEBSITES WITH LISTS OF TOOLS: 
+### MORE WEBSITES WITH LISTS OF TOOLS: 
 - [free for dev](https://free-for.dev/#/)
 - [pine tools](https://pinetools.com)
 - [foss hub](https://www.fosshub.com/categories.html)
