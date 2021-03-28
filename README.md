@@ -128,7 +128,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### PHOTO EDITOR (ONLINE
+### PHOTO EDITOR (ONLINE)
 - [fotor](https://www.fotor.com/photo-editor-app/editor/basic): Photo editor 
 
 
