@@ -132,6 +132,9 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [fotor](https://www.fotor.com/photo-editor-app/editor/basic): Photo editor 
 
 
+## PRIVACY POLICY GENERATOR 
+- [App Privacy Policy Generator by nisrulz](https://app-privacy-policy-generator.nisrulz.com): Generate privacy policy free of charge for deploying app on app store
+
 
 ### SCHEDULING
 - [cally](https://cally.com): Schedule meetings for free
