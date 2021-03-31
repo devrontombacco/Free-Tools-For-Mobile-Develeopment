@@ -27,9 +27,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### COLOR SCHEME GENERATORS 
+### COLOR
 - [Coolors.co](https://coolors.co): Color scheme generator
 - [palettron](https://paletton.com/#uid=12U0u0kllllaFw0g0qFqFg0w0aF): Color Scheme Generator 
+- [Color Review](https://color.review) :  Undertsand color contrast better
+- [Color Box](https://colorbox.io): Create precise color palettes 
 
 
 
@@ -45,6 +47,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 ### EVENTS
 - [forekast](https://forekast.com ): Upcoming fun events!
+- [UxAgenda](https://uxagenda.com): A comprehensive database of design conferences, workshops and meetups
 
 
 
