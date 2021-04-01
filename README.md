@@ -169,6 +169,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
+### SYMBOLS
+- [cool symbol](https://coolsymbol.com): Copy and paste cool symbols into your projects.
+
+
+
 ### TIME TRACKING 
 - [clockify](https://clockify.me): 
 
