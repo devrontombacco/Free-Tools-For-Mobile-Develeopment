@@ -81,9 +81,12 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### IMAGE OPMITISATION 
+### IMAGE/PHOTO EDITING
+- [compressor](https://compressor.io): Free online image compressor. Choose between lossy or lossless compression to get the best balance between image quality and file size.
 - [tinypng](https://tinypng.com): Optimize your pngs
 - [tinyjpg](https://tinyjpg.com ): Optimize your jpgs
+- [pilexr](https://pixlr.com): Create posters, flyers and collages from templates. Remove background from images. Access stock photography.
+- [vectary](https://www.vectary.com): Browser-based 3D content creation tool. View your design in Augmented Reality. Supports team collaboration.
 
 
 
