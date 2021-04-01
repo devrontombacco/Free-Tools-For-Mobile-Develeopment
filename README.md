@@ -145,7 +145,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 ### PRIVACY POLICY GENERATOR 
 - [App Privacy Policy Generator by nisrulz](https://app-privacy-policy-generator.nisrulz.com): Generate privacy policy free of charge for deploying app on app store
-
+- [free privacy policy](https://www.freeprivacypolicy.com): Generate privacy policies/ T&Cs/ Cookies policies/ Return and Refund policies/ Disclaimers
 
 ### SCHEDULING
 - [cally](https://cally.com): Schedule meetings for free
