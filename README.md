@@ -27,7 +27,12 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### COLOR
+### COLLABORATION 
+- [whimsical](https://whimsical.com): Create flowcharts, wireframes, sticky notes and mind maps. Invite teammates to collaborate with you
+- [notion](https://www.notion.so): Collaborate with your team online with an online whiteboard
+
+
+### COLOR SCHEMES AND PALETTES
 - [Coolors.co](https://coolors.co): Color scheme generator
 - [palettron](https://paletton.com/#uid=12U0u0kllllaFw0g0qFqFg0w0aF): Color Scheme Generator 
 - [Color Review](https://color.review) :  Undertsand color contrast better
@@ -155,7 +160,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
-### SWIFT LANGUAGE
+### SWIFT LANGUAGE RESOURCES
 - [Official Docs](https://swift.org): Swift Language Reference Guide
 - [get awesomeness](https://getawesomeness.herokuapp.com/get/swift): Random awesome Swift resources
 
