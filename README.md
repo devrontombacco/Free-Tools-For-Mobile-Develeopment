@@ -83,6 +83,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [flaticon](https://www.flaticon.com): Flat icons
 - [basic icons](https://basicons.xyz): Basic icons 
 - [fontawesome](https://fontawesome.com/cheatsheet): fontawesome icons
+- [remix icon](https://remixicon.com): Free icon library
 
 
 
