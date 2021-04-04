@@ -1,7 +1,9 @@
 ![](Free_Tools_For_Mobile_Development.png)
 
 
-Below is a list I've been curating of free tools I use when making mobile apps. It's been really useful to me and I thought I'd share what I've found with the community.  My main goal here is to have free resources that can help you if you're stuck, if you need to reference something, or just to give you ideas in general. The resources here are either completely free or have a free "tier" you can sign up to. Also, I prefer wherever possible to use mainly online tools as opposed to software you download in order to save hard disk space. Reach out to me or create PR if you want to add anything :) 
+Below is a list I've been curating of free tools I use when making mobile apps. It's been really useful to me and I thought I'd share what I've found with the community.  My main goal here is to have free resources that can help you if you're stuck, if you need to reference something or just to give you ideas in general. These resources are either completely free or have a free tier you can sign up to. Wherever possible I try to use mainly online tools as opposed to software you download in order to save hard disk space. However, some of these tools can be downloaded on the app store. 
+
+Pull Requests welcome!
 
 <br/>
 
@@ -152,6 +154,13 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 ### PRIVACY POLICY GENERATOR 
 - [App Privacy Policy Generator by nisrulz](https://app-privacy-policy-generator.nisrulz.com): Generate privacy policy free of charge for deploying app on app store
 - [free privacy policy](https://www.freeprivacypolicy.com): Generate privacy policies/ T&Cs/ Cookies policies/ Return and Refund policies/ Disclaimers
+
+
+
+### PROJECT MANAGEMENT 
+- [MindNode](https://apps.apple.com/ie/app/mindnode-mind-map-outline/id1289197285?mt=12): Organize your ideas in a mind map (App store download)
+- [Trello](https://trello.com): Kanban board tool for project management.
+
 
 ### SCHEDULING
 - [cally](https://cally.com): Schedule meetings for free
