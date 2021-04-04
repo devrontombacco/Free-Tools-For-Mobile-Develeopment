@@ -3,8 +3,6 @@
 
 Below is a list I've been curating of free tools I use when making mobile apps. It's been really useful to me and I thought I'd share what I've found with the community.  My main goal here is to have free resources that can help you if you're stuck, if you need to reference something or just to give you ideas in general. These resources are either completely free or have a free tier you can sign up to. Wherever possible I try to use mainly online tools as opposed to software you download in order to save hard disk space. However, some of these tools can be downloaded on the app store. 
 
-Pull Requests welcome!
-
 <br/>
 
 ### APP ICON GENERATOR 
