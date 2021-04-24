@@ -146,7 +146,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 ### OBJECTIVE-C RESOURCES 
 - [swiftify](https://swiftify.com/converter/code/): Convert your objc code to swift with a quick copy and paste
-
+- [Apple Developer ObjC docs](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210): Offical Apple Developer Objc Documentation for reference purposes
 
 
 ### ONLINE TRENDS 
