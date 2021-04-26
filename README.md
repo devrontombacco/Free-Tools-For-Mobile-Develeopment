@@ -182,6 +182,9 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [shareX](https://getsharex.com): Screen capture, sharing and productivity tool 
 
 
+### SEMANTIC VERSIONING 
+- [sem ver](https://semver.org/): This resource explains how to version your app with the MAJOR.MINOR.PATCH format.
+
 
 ### SOUND EFFECTS
 - [mixkit](https://mixkit.co): Download free sound FX 
