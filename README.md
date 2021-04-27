@@ -99,6 +99,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 ### JSON FORMATTERS
 - [app quicktype](https://app.quicktype.io): Don't waste time creating model structs for your json. Just copy and paste everything here. 
 - [json grid](https://jsongrid.com/json-viewer): Online JSON Formatter with tree view
+- [json parser online](http://json.parser.online.fr): Online JSON parser/formatter
 
 
 
