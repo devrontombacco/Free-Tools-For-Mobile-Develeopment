@@ -100,7 +100,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [app quicktype](https://app.quicktype.io): Don't waste time creating model structs for your json. Just copy and paste everything here. 
 - [json grid](https://jsongrid.com/json-viewer): Use this tool to see your JSON in GRIDS/TABLES!
 - [json parser online](http://json.parser.online.fr): Online JSON parser/formatter
-
+- [csv2json](https://csvjson.com/csv2json): CSV to JSON Converter
 
 
 
