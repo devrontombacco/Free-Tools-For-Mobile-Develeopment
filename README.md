@@ -172,6 +172,8 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [free privacy policy](https://www.freeprivacypolicy.com): Generate privacy policies/ T&Cs/ Cookies policies/ Return and Refund policies/ Disclaimers
 
 
+### PROFILE PIC MAKER 
+- [pfpmaker](https://pfpmaker.com): Upload photo to remove background for a profile pic
 
 ### PROJECT MANAGEMENT 
 - [MindNode](https://apps.apple.com/ie/app/mindnode-mind-map-outline/id1289197285?mt=12): Organize your ideas in a mind map (App store download)
