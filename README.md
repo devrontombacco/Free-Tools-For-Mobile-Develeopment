@@ -178,6 +178,9 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [Trello](https://trello.com): Kanban board tool for project management.
 
 
+### REGEX
+- [debuggex](https://www.debuggex.com): Useful regex resource
+
 ### SCHEDULING
 - [cally](https://cally.com): Schedule meetings for free
 
