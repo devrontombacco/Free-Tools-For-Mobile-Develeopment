@@ -110,13 +110,18 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 ### LOREM IPSUM GENERATORS 
-- [lorem ipsum](https://loremipsum.io): Generate text for your app
-- [lipsum](https://www.lipsum.com):  Generate text for your app 
-- [bacon ipsum](https://baconipsum.com):  Generate bacon themed text for your app
-- [cupcake ipsum](http://www.cupcakeipsum.com):  Generate cupcake themed text for your app
-- [slipsum](https://slipsum.com):  Generate Samuel Jackson themed text for your app
-
-
+- [lorem ipsum](https://loremipsum.io): Generate general placeholder text for your app
+- [lipsum](https://www.lipsum.com):  Generate general placeholder text for your app
+- [bacon ipsum](https://baconipsum.com):  Generate bacon themed placeholder text for your app
+- [tuna ipsum](https://tunaipsum.com): Generate tuna themed placeholder text for your app
+- [cupcake ipsum](http://www.cupcakeipsum.com):  Generate cupcake themed placeholder text for your app
+- [slipsum](https://slipsum.com):  Generate Samuel Jackson themed placeholder text for your app
+- [obama ipsum](https://obamaipsum.com): Generate Barack Obama themed placeholder text for your app
+- [nietzsche ipsum](http://nietzsche-ipsum.com): Generate Nietzsche themed placeholder text for your app
+- [office ipsum](http://officeipsum.com): Generate office themed placeholder text for your app
+- [deGrasse ipsum](http://neilipsum.pw/#/): Generate Neil DeGrasse Tyson themed placeholder text for your app
+- [sagan ipsum](http://saganipsum.com): Generate Carl Sagan themed placeholder text for your app
+- [rick and morty ipsum](http://loremricksum.com): Generate Rick and Morty themed placeholder text for your app
 
 ### MARKDOWN 
 - [dillinger](www.dillinger.io): Create markdown easily 
