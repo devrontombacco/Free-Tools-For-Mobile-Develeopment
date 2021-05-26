@@ -39,6 +39,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [Color Box](https://colorbox.io): Create precise color palettes 
 
 
+### DATABASE DIAGRAMMING TOOLS
+- [drawsql](https://drawsql.app): Create, visualize and collaborate on your database entity relationship diagrams (Free Tier version available)
+- [dbdiagram](https://dbdiagram.io/home): A simple tool to draw ER diagrams by just writing code (Free Tier version available)
+- [erd plus](https://erdplus.com): A browser-based database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
+
 
 ### DISCLAIMER GENERATOR 
 - [disclaimer generator](https://www.disclaimergenerator.net): Generate disclaimers online for free
