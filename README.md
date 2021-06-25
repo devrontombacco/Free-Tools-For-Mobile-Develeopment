@@ -73,6 +73,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 
 
+### GIT STUFF 
+- [gitignore.io](https://www.toptal.com/developers/gitignore): Enter the IDE of your choice or other options and it will automatically generate a gitignore file consisting of useful ignores
+
+
+
 ### GOLDEN RATIO CALCULATOR
 - [golden ratio](https://miniwebtool.com/golden-section-calculator/): Create the golden ratio 
 
