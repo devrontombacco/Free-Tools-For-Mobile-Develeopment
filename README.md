@@ -239,6 +239,9 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [clockify](https://clockify.me): 
 
 
+### USER STORIES 
+- [write a user story](http://www.writeauserstory.com): Generate User stories easily
+
 
 ### WIREFRAMES 
 - [wireframer](https://wireframer.art): Create wireframes easily 
