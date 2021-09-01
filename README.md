@@ -26,6 +26,10 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [fontAwesome](https://fontawesome.com/cheatsheet): Cheatshet for fontawesome icons
 
 
+### CODE SNIPPETS
+- [code grepper](https://www.codegrepper.com/search.php): Great little websites for getting code snippets quickly and efficiently 
+
+
 
 ### COLLABORATION 
 - [whimsical](https://whimsical.com): Create flowcharts, wireframes, sticky notes and mind maps. Invite teammates to collaborate with you
