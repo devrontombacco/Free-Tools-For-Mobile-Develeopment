@@ -145,6 +145,10 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [readme.so](https://readme.so/editor): Really easy to use GUI editor for quickly creating markdown
 
 
+### MAP/FILTER/REDUCE
+- [useYourLoaf article](https://useyourloaf.com/blog/swift-guide-to-map-filter-reduce/): Great explanation for map, filter, reduce functions in swift.
+
+
 
 ### MOBILE APP DESIGN WEBSITES 
 - [dribbble](https://www.dribbble.com): Check out designers' portfolios to get more ideas
