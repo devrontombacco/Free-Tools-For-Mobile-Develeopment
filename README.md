@@ -111,6 +111,10 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [remix icon](https://remixicon.com): Free icon library
 
 
+### IF CASE LET SYNTAX (iOS)
+- [If Case Let Syntax](https://fuckingifcaseletsyntax.com): Quickly reference if case let syntax in swift
+
+
 
 ### IMAGE/PHOTO EDITING
 - [compressor](https://compressor.io): Free online image compressor. Choose between lossy or lossless compression to get the best balance between image quality and file size.
@@ -119,6 +123,10 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [pilexr](https://pixlr.com): Create posters, flyers and collages from templates. Remove background from images. Access stock photography.
 - [vectary](https://www.vectary.com): Browser-based 3D content creation tool. View your design in Augmented Reality. Supports team collaboration.
 - [place img](https://placeimg.com/1000/800/tech): Free image generator service. Go to placeimg.com and add on /width/height/category at the end.
+
+
+### GIT VERSION CONTROL RESOURCES
+- [osgit](https://ohshitgit.com): Some quick tips for when you make mistakes using GIT
 
 
 ### JSON FORMATTERS
