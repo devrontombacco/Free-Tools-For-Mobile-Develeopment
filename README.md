@@ -26,6 +26,12 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [fontAwesome](https://fontawesome.com/cheatsheet): Cheatshet for fontawesome icons
 
 
+### CLOSURE SYNTAX (iOS)
+- [closure syntax](https://fuckingclosuresyntax.com): Quickly reference closure syntax here.
+- [block syntax](http://fuckingblocksyntax.com): Same as the above link, but for blocks in objc.
+- [multiple trailing closure syntax](https://fuckingmultipletrailingclosuresyntax.com): Quickly reference multiple trailing closure syntax ios
+
+
 ### CODE SNIPPETS
 - [code grepper](https://www.codegrepper.com/search.php): Great little websites for getting code snippets quickly and efficiently 
 - [one liner hub](https://onelinerhub.com): Same as above
