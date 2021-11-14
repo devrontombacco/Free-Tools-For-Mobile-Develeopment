@@ -207,6 +207,8 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [answer the public](https://answerthepublic.com): Company offering free online trend search
 
 
+### PACKAGES:
+- [Swift Package Index](https://swiftpackageindex.com): Swift Package Index 
 
 ### PHOTO EDITOR (ONLINE)
 - [fotor](https://www.fotor.com/photo-editor-app/editor/basic): Photo editor 
