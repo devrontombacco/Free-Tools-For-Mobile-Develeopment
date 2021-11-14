@@ -241,6 +241,8 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 ### SEMANTIC VERSIONING 
 - [sem ver](https://semver.org/): This resource explains how to version your app with the MAJOR.MINOR.PATCH format.
 
+### SIMULATOR
+- [Simulator Status Magic](https://github.com/shinydevelopment/SimulatorStatusMagic?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B533): Modify the iOS Simulator so that it has a perfect status bar, then run your app and take perfect screenshots every time. The modifications made are designed to match the images you see on the Apple site
 
 ### SOUND EFFECTS
 - [mixkit](https://mixkit.co): Download free sound FX 
