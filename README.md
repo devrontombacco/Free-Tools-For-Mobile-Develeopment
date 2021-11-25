@@ -275,6 +275,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [write a user story](http://www.writeauserstory.com): Generate User stories easily
 
 
+### UUID GENERATOR
+-[uuid generator](https://www.uuidgenerator.net): Online tool that generates up to 500 uuids with just one click.
+
+
+
 ### WIREFRAMES 
 - [wireframer](https://wireframer.art): Create wireframes easily 
 
