@@ -17,17 +17,20 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [easyappicon](https://easyappicon.com):  App icon generator
 - [photopea](https://photopea.com): Create your own app icon
 
-
+\
+&nbsp;
 ### BOOKMARKING
 - [raindrop](https://raindrop.io/download): Bookmark stuff for later
 
 
-
+\
+&nbsp;
 ### CHARTS/DIAGRAMS
 - [app.diagrams](https://app.diagrams.net): Create charts / diagrams / maps / tables
 
 
-
+\
+&nbsp;
 ### CHEATSHEETS 
 - [fontAwesome](https://fontawesome.com/cheatsheet): Cheatshet for fontawesome icons
 
