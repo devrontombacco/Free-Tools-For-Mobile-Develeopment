@@ -9,14 +9,14 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 ### API (Free/fake for testing)
 - [jsonplaceholder typicode](https://jsonplaceholder.typicode.com): free online REST API that you can use whenever you need some fake data.
 
-
+<br/>
 ### APP ICON GENERATOR 
 - [makeAppIcon](https://makeappicon.com): App icon generator
 - [appicon.co](https://appicon.co): App icon generator
 - [easyappicon](https://easyappicon.com):  App icon generator
 - [photopea](https://photopea.com): Create your own app icon
 
-
+<br/>
 ### BOOKMARKING
 - [raindrop](https://raindrop.io/download): Bookmark stuff for later
 
