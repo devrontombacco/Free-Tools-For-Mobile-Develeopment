@@ -316,8 +316,9 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 \
 &nbsp;
-### UUID GENERATOR
--[uuid generator](https://www.uuidgenerator.net): Online tool that generates up to 500 uuids with just one click.
+### UUID/GUID GENERATOR
+- [uuid generator](https://www.uuidgenerator.net): Online tool that generates up to 500 uuids with just one click.
+- [guid one](http://guid.one/guid)
 
 \
 &nbsp;
