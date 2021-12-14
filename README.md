@@ -22,6 +22,8 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 ### BOOKMARKING
 - [raindrop](https://raindrop.io/download): Bookmark stuff for later
 
+### BROWSER TOOLS 
+- [omatsuri](https://omatsuri.app): Generate all sorts of stuff like triangles, color shades, gradients, page dividers, svg compression, fake data and much more. 
 \
 &nbsp;
 ### CHARTS/DIAGRAMS
