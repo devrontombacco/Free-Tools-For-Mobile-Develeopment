@@ -96,6 +96,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 \
 &nbsp;
 ### FONTS and TYPOGRAPHY
+- [wordmark](https://wordmark.it): Website that helps you choose a font
 - [fontflipper](https://www.fontflipper.com): Identify a font you like from an image
 - [modularscale](https://www.modularscale.com/?1&em&1.5): What scale should your font have? 
 - [type-scale](https://type-scale.com): Help scale your font
