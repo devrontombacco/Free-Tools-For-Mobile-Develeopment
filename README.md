@@ -57,7 +57,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 &nbsp;
 ### COLOR SCHEMES AND PALETTES
 - [Coolors.co](https://coolors.co): Color scheme generator
-- [palettron](https://paletton.com/#uid=12U0u0kllllaFw0g0qFqFg0w0aF): Color Scheme Generator 
+- [paletton](https://paletton.com/#uid=12U0u0kllllaFw0g0qFqFg0w0aF): Color Scheme Generator
 - [Color Review](https://color.review) :  Undertsand color contrast better
 - [Color Box](https://colorbox.io): Create precise color palettes 
 
