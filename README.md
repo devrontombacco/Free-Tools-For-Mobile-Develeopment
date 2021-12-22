@@ -88,6 +88,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 &nbsp;
 ### EMOJIS 
 - [emojipedia](https://emojipedia.org): Emojis for anything
+- [emojicopy](https://www.emojicopy.com): Easily search through hundreds of emojis and just copy and paste the ones you want
 
 \
 &nbsp;
