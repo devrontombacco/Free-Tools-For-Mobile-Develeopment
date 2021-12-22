@@ -75,6 +75,11 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 \
 &nbsp;
+### DESIGN SOFTWARE 
+- [figma](https://www.figma.com/pricing/): Design Software (free tier) 
+
+\
+&nbsp;
 ### DISCLAIMER GENERATOR 
 - [disclaimer generator](https://www.disclaimergenerator.net): Generate disclaimers online for free
 - [terms feed](https://www.termsfeed.com/disclaimer-generator/): Online disclaimer generator
