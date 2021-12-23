@@ -248,7 +248,12 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 &nbsp;
 ### PHOTO EDITOR (ONLINE)
 - [fotor](https://www.fotor.com/photo-editor-app/editor/basic): Photo editor 
- 
+
+\
+&nbsp;
+### PLACEHOLDER IMAGES 
+- [placeholder](https://placeholder.com): Create a custom placeholder. Choose size, format, color, text and more.
+
 \
 &nbsp;
 ### PRIVACY POLICY GENERATOR 
