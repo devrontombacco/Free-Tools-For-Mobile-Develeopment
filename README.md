@@ -187,12 +187,13 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 
 \
 &nbsp;
-### MARKDOWN 
+### MARKDOWN/README
 - [dillinger](www.dillinger.io): Create markdown easily 
 - [markdownify](https://markdownify.js.org): Download markdown software 
 - [tables generator](https://www.tablesgenerator.com/markdown_tables): Easily create and modify tables in your markdown
 - [readme.so](https://readme.so/editor): Really easy to use GUI editor for quickly creating markdown
 - [stack edit](https://stackedit.io/app#): Really cool markdown editor. You can even create UML diagrams, create files and folder to be synchronized to online drives, show mathematical formulas and create flowcharts. 
+- [Matias Singers](https://github.com/matiassingers/awesome-readme): awesome examples of READMEs used in various projects
 
 \
 &nbsp;
