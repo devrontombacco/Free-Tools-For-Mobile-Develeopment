@@ -147,6 +147,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 - [pilexr](https://pixlr.com): Create posters, flyers and collages from templates. Remove background from images. Access stock photography.
 - [vectary](https://www.vectary.com): Browser-based 3D content creation tool. View your design in Augmented Reality. Supports team collaboration.
 - [place img](https://placeimg.com/1000/800/tech): Free image generator service. Go to placeimg.com and add on /width/height/category at the end.
+- [ezgif](www.ezgif.com): Online GIF maker and image editor. Convert file formats - jpg, webp, png, video) + rotate, resize, crop, cut and more
 
 \
 &nbsp;
