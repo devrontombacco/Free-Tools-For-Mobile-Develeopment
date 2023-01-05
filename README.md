@@ -115,6 +115,7 @@ Below is a list I've been curating of free tools I use when making mobile apps. 
 &nbsp;
 ### GIT STUFF 
 - [gitignore.io](https://www.toptal.com/developers/gitignore): Enter the IDE of your choice or other options and it will automatically generate a gitignore file consisting of useful ignores
+- [cbea](https://cbea.ms/git-commit/): how to write a great git commit
 
 \
 &nbsp;
